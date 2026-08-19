@@ -1,0 +1,113 @@
+ImMobile - A Year+ of Hard Work
+
+This app is the result of more than a year of dedication and effort.
+I truly hope you enjoy using it.
+
+Developed by Bashar Astifan
+Support the project:
+https://paypal.me/astifan
+
+Thank you for using ImMobile.
+Project Page: https://github.com/basharast/ImMobile
+
+------------------------------------------------------------
+
+This project wouldn't have been possible without the incredible tools
+developed by many others — most notably the UI engine Dear ImGui.
+
+Dear ImGui Acknowledgements:
+- Omar Cornut (ImGui)
+  https://github.com/ocornut/imgui
+- Ahmad Walid (ImGui UWP)
+  https://github.com/ahmed605/imgui-uwp
+
+Special Thanks:
+- Gustave Monce: https://github.com/gus33000
+
+------------------------------------------------------------
+
+Included Libraries and Widgets:
+
+Widgets:
+- BalazsJako (Text Editor)
+  https://github.com/BalazsJako/ImGuiColorTextEdit
+- goossens (New Text Editor)
+  https://github.com/goossens/ImGuiColorTextEdit
+- RTLScript
+  https://github.com/oscar7070/RTLScript
+- Deathstroke (Notifications)
+  https://github.com/patrickcjk/imgui-notify
+- dfranx (File Manager)
+  https://github.com/dfranx/ImFileDialog
+- Pascal Thomet (Calculator)
+  https://github.com/pthom/rpn_calculator
+- enkisoftware (Markdown)
+  https://github.com/enkisoftware/imgui_markdown
+- Evan Pezent (ImPlot)
+  https://github.com/epezent/implot
+
+Core Libraries:
+- libarchive:		https://www.libarchive.org/
+- libzip:		https://libzip.org/
+- zlib:			https://zlib.net/
+- pugixml:		https://pugixml.org/
+- liblzma:		https://tukaani.org/xz/
+- bzip2:		https://sourceware.org/bzip2/
+- stb_image:		https://github.com/nothings/stb
+- fast-csv:		https://github.com/ben-strasser/fast-cpp-csv-parser
+- SimpleIni:		https://github.com/brofield/simpleini
+- quickjs:		https://bellard.org/quickjs
+- quickjs-ng:		https://github.com/quickjs-ng/quickjs
+- nlohmann_json:	https://github.com/nlohmann/json/
+- picojson:		https://github.com/kazuho/picojson
+- gumbo-parser:		https://github.com/google/gumbo-parser
+
+------------------------------------------------------------
+
+Wallpapers & Visuals:
+
+Wallpapers:
+- Iyan Sofyan:		https://www.pinterest.com/iyansofyan/
+- Ritvik Sharma:	https://www.pinterest.com/ritvik0321/
+- Pixelstalk.net:	https://pixelstalk.net
+- Wallpapercave.com:	https://wallpapercave.com
+
+Wallpapers reproduced with [InvokeAI](https://github.com/invoke-ai)
+
+Themes:
+- Omar Cornut (Default, Classic)
+  https://github.com/ocornut
+- Simon Geilfus (Cinder)
+  https://github.com/simongeilfus/Cinder-ImGui
+- Adobe (Spectrum)
+  https://github.com/adobe/imgui/blob/master/imgui_spectrum.h
+- Chris (EnemyMouse)
+  https://gist.github.com/enemymouse
+- Ole Kristensen (ledSynthMaster)
+  https://github.com/olekristensen/ledsynthmaster
+- CookiePLMonster (Gold)
+  https://github.com/CookiePLMonster
+- Aiekick (Green)
+  https://github.com/aiekick
+- ImJC1C (Material)
+  https://github.com/ImJC1C
+- rewrking (FutureDark)
+  https://github.com/rewrking
+- username..was..ken (Microsoft)
+  https://github.com/usernameiwantedwasalreadytaken
+- Madam Herta (Moonlight)
+  https://github.com/Madam-Herta/
+- Derrick Canfield (Photoshop)
+  https://github.com/derydoca
+- Lunar (Purple Comfy)
+  https://github.com/RegularLunar
+
+------------------------------------------------------------
+
+Sound Effects Credits:
+- RasoolAsaad
+  https://pixabay.com/users/rasoolasaad-47313572/
+- skyscraper_seven
+  https://pixabay.com/users/skyscraper_seven-43500092/
+
+------------------------------------------------------------
